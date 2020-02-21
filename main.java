@@ -1,4 +1,8 @@
-class main
+package src;
+
+import java.util.Scanner;
+
+class implementation
 {
 public static void main (String []args)
   {
@@ -9,6 +13,7 @@ public static void main (String []args)
   System.out.println("Press 3 to search for a contact");
   System.out.println("Press 4 to delete a contact");
   System.out.println("Press 5 to exit program");
+
   int a=s.nextInt();
   switch(a)
     {
@@ -16,7 +21,7 @@ public static void main (String []args)
     
           break;
     case 2:
-    
+
           break;
     case 3:
     
