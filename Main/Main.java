@@ -1,5 +1,5 @@
 package src.Main;
-import defination.Menu;
+import src.defination.Menu;
 
 import java.sql.SQLException;
 import java.util.Scanner;
